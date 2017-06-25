@@ -14,7 +14,7 @@ like so:
 ```yaml
 output:    
   html_document:     
-    css: rmarkdown-rt-css.css    
+    css: rmarkdown-rtl-css.css    
 ```    
 
 
