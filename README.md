@@ -11,10 +11,11 @@ After downloading the CSS, simply refer to the files location in the yaml sectio
 like so:    
 
 
-`output:    
+```yaml
+output:    
   html_document:     
     css: rmarkdown-rt-css.css    
-`    
+```    
 
 
 For further information on customizing Rmd files output, check out the RStudio website....
