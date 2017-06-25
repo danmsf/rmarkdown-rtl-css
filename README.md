@@ -8,11 +8,15 @@ If your looking for a full fledged CSS to handle your `rtl` needs... keep lookin
 
 ## Usage
 After downloading the CSS, simply refer to the files location in the yaml section of your Rmd script
-like so:
-`output: 
-  html_document: 
-    css: rmarkdown-rt-css.css
-`
+like so:    
+
+
+`output:    
+  html_document:     
+    css: rmarkdown-rt-css.css    
+`    
+
+
 For further information on customizing Rmd files output, check out the RStudio website....
 
 ## Improvement
