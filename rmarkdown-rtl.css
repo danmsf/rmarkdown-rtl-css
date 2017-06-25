@@ -1,0 +1,31 @@
+
+@charset "UTF-8";
+
+body { margin-left: auto;
+	   direction: rtl;
+	   unicode-bidi: embed;
+       margin-right: auto;
+       padding-right: 12.5%;
+}
+	
+pre {
+	direction: ltr;
+}
+
+
+table {
+	direction: ltr;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-right: 25px;
+  text-indent: 0;
+}
+
+
+.tocify-subheader .tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-right: 30px;
+  text-indent: 0;
+}
